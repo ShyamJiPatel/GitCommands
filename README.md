@@ -1,4 +1,4 @@
-                                                                  Git important commands
+Git important commands
                                                                   
 
 Preface : This document is intended to the audience who wish to use Git into their project. It comprises of basic commands being used.
